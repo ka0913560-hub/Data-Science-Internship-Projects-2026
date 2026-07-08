@@ -26,7 +26,7 @@ This project presents an interactive Sales Analysis Dashboard built using Micros
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.jpeg)
 
 ## Author
 Khush Arora
