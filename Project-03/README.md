@@ -56,6 +56,6 @@ HR Analytics Dataset
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard 2.jpeg)
+![Dashboard](dashboard2.jpeg)
 
 Dashboard screenshot included in this repository.
